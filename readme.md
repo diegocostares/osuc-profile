@@ -3,11 +3,6 @@ osuc-profile/diegocostares es un repositorio ✨ especial ✨ porque su `readme.
 Puedes ver tu perfil en https://members.osuc.dev/perfil/diegocostares
 --->
 
-<table border="0"  align="right">
- <tr><td><a href="README.md"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Bandera_de_Espa%C3%B1a.svg/1200px-Bandera_de_Espa%C3%B1a.svg.png" height="10"> Spanish</a></td>
- <td><a href="README.en.md"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg" height="10"> English</a></td></tr>
-</table><br><br><br>
-
 
 <p align="center">
   <img src="https://github.com/diegocostares/diegocostares/blob/main/Images/aaa2.gif?raw=true" height="200px">
@@ -16,8 +11,7 @@ Puedes ver tu perfil en https://members.osuc.dev/perfil/diegocostares
     Estudiante de ingeniería en la <br>
     Pontificia Universidad Católica de Chile :school:<br>
   <br>
-    :notebook: Actualmente estoy aprendiendo python <br>
-    :art: Soy fotografo y puedes encontrarme en: <br>
+    :art: Ademas, soy fotografo y puedes encontrarme en: <br>
   <br></samp>
   
 </p>
